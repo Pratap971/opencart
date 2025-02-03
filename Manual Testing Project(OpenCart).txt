@@ -1,0 +1,55 @@
+Manual Testing Project (OpenCart)
+
+-----------------------
+
+Project Introduction 
+Understanding & Explore the Functionality (FRS)
+Estimation
+Test Plan
+Writing Test Scenario
+Writing Test Cases & Reviews
+Environment Setup & Build deployment
+Test Execution
+Bug Reporting & Tracking
+Sanity Testing, Re-Testing & Regression Testing
+Test Sign off
+
+
+Project Vs Product
+
+Project introduction
+----------------------
+Product
+eCommerce product/Application
+
+eCommerce
+---------------
+       Login
+       Search for product/items
+       Add them to cart
+       Do/make payment
+       Product will be delivered.
+       Returns the product
+       etc.....
+
+Frontend ---- public
+Backend ----- Admins
+
+URL : https://demo.opencart.com/
+Customer : OpenCart
+
+
+Mockup screens
+
+
+
+
+
+
+
+
+
+
+C:\Program Files (x86)\WatchGuard\WatchGuard Mobile VPN with S
+
+
